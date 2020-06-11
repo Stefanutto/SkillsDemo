@@ -24,5 +24,5 @@
 * [OAM](http://sistemas.tnsistemas.com.br/oam/) - Projeto Enfrente 
 * [Atendimento](https://tnsistemas.com.br/atendimento/) - Sistema de suporte ao usuario / FAQ
 
-## Qualquer duvida pode me enviar em email para fhstefanutto@gmail.com
+## Qualquer duvida pode me enviar um email para fhstefanutto@gmail.com
 
