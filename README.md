@@ -5,8 +5,8 @@
 * Para o disparo de email é preciso colocar suas informações nas constantes de disparo de email.
 
 
-## Esse é um projeto onde mostros minhas skills com:
-* MVC
+## Esse é um projeto onde mostro minhas skills com:
+* MVCgit 
 * PHP7
 * JS
 * [Vue](https://github.com/vuejs/vue)
