@@ -1,0 +1,48 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "name": "Dashboard",
+            "link": "/home/homepage",
+            "icon": "menu-icon fas fa-chart-line",
+            "visible": true,
+            "children":{}
+        },
+        {
+            "id": 2,
+            "name": "Carteira Meta",
+            "link": "",
+            "icon": "menu-icon fas fa-wallet",
+            "visible": true,
+            "children":[
+                {
+                    "name": "Categorias de Ativos",
+                    "link": "/Assets/Index",
+                    "visible": true
+                },
+                {
+                    "name": "Ativos",
+                    "link": "/Active/Index",
+                    "visible": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Carteira Atual",
+            "link": "/investments/index",
+            "icon": "menu-icon fas fa-sign-out-alt",
+            "visible": true,
+            "children":{}
+        },
+        {
+            "id": 4,
+            "name": "Sair",
+            "link": "",
+            "icon": "menu-icon fas fa-sign-out-alt",
+            "visible": true,
+            "children":{}
+        }
+    ]
+    
+}

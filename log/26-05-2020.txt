@@ -1,0 +1,11 @@
+Projeto: Carteira Do Holder
+		        Dados do banco de dados:
+		        DB: pgsql
+		        HOST: localhost
+		        DB NAME: carteiraholder
+		        USER: postgres
+		        PASSWORD: Fer@1962
+
+Mailer Error: Message body empty
+
+Mailer Error: Message body empty

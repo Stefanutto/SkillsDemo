@@ -1,0 +1,17 @@
+Projeto: Carteira Do Holder
+		        Dados do banco de dados:
+		        DB: pgsql
+		        HOST: localhost
+		        DB NAME: carteiraholder
+		        USER: postgres
+		        PASSWORD: Fer@1962
+
+Erro em AssetsDAO->Save:
+ UPDATE system.carteira SET assets = ?  WHERE id_user = ?
+Array
+2
+
+Erro em AssetsDAO->Save:
+ UPDATE system.carteira SET assets = ?  WHERE id_user = ?
+{"acoes":"40","fiis":"30","etfs":"10","rf":"20"}
+2

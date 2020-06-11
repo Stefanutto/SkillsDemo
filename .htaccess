@@ -1,0 +1,12 @@
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ErrorDocument 400 /errors/bad-request.html
+ErrorDocument 401 /errors/auth-reqd.html
+ErrorDocument 403 /errors/forbid.html
+ErrorDocument 404 /errors/not-found.html
+ErrorDocument 500 /errors/server-err.html
+
+RewriteRule ^(.*)$ index.php?url=$1 [L]
