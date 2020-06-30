@@ -6,7 +6,8 @@
 
 
 ## Esse é um projeto onde mostro minhas skills com:
-* MVCgit 
+* MVC
+* git 
 * PHP7
 * JS
 * [Vue](https://github.com/vuejs/vue)
